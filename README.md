@@ -16,7 +16,7 @@ $ gem install serverspec-vyos-config
 ## Usage
 
 ```
-require_relative 'serverspec_vyos_config'
+require 'serverspec_vyos_config'
 
 describe vyos_config('service ssh port') do
   it { should be_exists }
