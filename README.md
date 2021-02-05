@@ -1,6 +1,6 @@
 # serverspec-vyos-config
 
-[![Build Status](https://travis-ci.org/higebu/serverspec-vyos-config.png)](https://travis-ci.org/higebu/serverspec-vyos-config)
+![Test](https://github.com/higebu/serverspec-vyos-config/workflows/Ruby%20Gem/badge.svg)
 [![Code Climate](https://codeclimate.com/github/higebu/serverspec-vyos-config/badges/gpa.svg)](https://codeclimate.com/github/higebu/serverspec-vyos-config)
 [![Gem Version](https://badge.fury.io/rb/serverspec-vyos-config.svg)](https://badge.fury.io/rb/serverspec-vyos-config)
 [![Downloads](http://ruby-gem-downloads-badge.herokuapp.com/serverspec-vyos-config?type=total&style=flat)](https://rubygems.org/gems/serverspec-vyos-config)
